@@ -1,0 +1,177 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Gilroy-Regular', sans-serif;
+}
+.container {
+    margin: 0 6.25em;
+}
+
+/* h1, h2, h3, h4, h5, h6 {
+    padding: 0;
+    margin: 0;
+    text-transform: uppercase;
+} */
+
+.header {
+    background: url('../img/bg.jpg') no-repeat center top / cover;
+}
+
+.text-logo {
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+    color: #FFFFFF;
+    margin-right: 598px;
+    margin-left: 10px;
+    text-decoration: none;
+    
+}
+header a {
+    flex: none;
+}
+.company{
+    margin-right: 160px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+    color: #FFFFFF;
+    text-decoration: none;
+}
+.header-logo {
+    padding-top: 4px;
+}
+.header-line {
+   padding-top: 40px;
+   display: flex;
+   align-items: center; 
+}
+
+.nav-item {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+    text-decoration: none;
+
+    color: #FFFFFF;
+    margin-right: 160px;
+}
+
+.header-title {
+    font-style: normal;
+    font-weight: 600;
+    font-size: 100px;
+    line-height: 119px;
+    color: #FFFFFF;
+    margin-top: 300px;
+    margin-left: 100px;
+    
+}
+
+.frame {
+    position: relative;
+    width: 22px;
+    height: 22px;
+    right: 169.5px;
+    bottom: 9px;
+
+}
+
+.Case {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+    text-decoration: none;
+
+    color: #FFFFFF;
+    margin-right: 138px;
+
+}
+
+.header-down {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px;
+
+    color: #FFFFFF;
+    mix-blend-mode: normal;
+    margin-left: 100px;
+    display: flex;
+    padding-bottom: 365px; 
+}
+
+.arrow {
+    margin-left: 20px;  
+}
+footer {
+    padding-top: 90px;
+    width: 100%;
+}
+.LogoFooter {
+    position: absolute;
+}
+.icon__bx {
+    margin-top: 120px; 
+}
+
+.icon__mir {
+    margin-top: 40px;
+}
+
+.icon__rf {
+    margin-top: 40px; 
+    padding-bottom: 95px;
+}
+
+footer a{
+    text-decoration: none; 
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 140%;
+    color: #000000;
+    opacity: 0.5; 
+}
+
+ul {
+    list-style: none;
+    margin-block-start: 0px;
+    padding-inline-start: 0px;
+}
+li {
+    margin-bottom: 20px;
+}
+
+.columns{
+    display: flex;
+    margin-left: 630px;
+
+}
+
+.Title {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+    color: #181818;
+    margin-right: 160px;
+    margin-bottom: 40px;
+}
+
+.Cont {
+    margin-bottom: 123px;
+}
+
+.Social {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+    color: #181818;
+    opacity: 1;
+}
+
